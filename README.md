@@ -1,0 +1,2 @@
+# Customer-Lifetime-Value-Estimation-from-Transaction-Histories-Under-Right-Censoring
+Estimated Customer Lifetime Value (CLV) using survival analysis on the UCI Online Retail II dataset. Modelled right-censored churn using Kaplan–Meier, Cox PH and Weibull AFT, combining survival probabilities with predicted revenue rates to estimate discounted 12-month CLV. Includes regularized regression, threshold sensitivity and model limitations
